@@ -1,6 +1,9 @@
 # YTDLQuickGui
 ![image](https://github.com/user-attachments/assets/a2b9c848-cd8c-4dbf-8d50-8581eb4ff88c)
 
+## download
+download the release: https://github.com/DursyArts/YTDLQuickGui/releases/download/alpha-build/YTDLPQuickGui.zip
+
 ## features
 - Download yt-dlp.exe from github
 - Download ffmpeg.zip and extract it
